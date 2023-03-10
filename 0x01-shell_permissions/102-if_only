@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --rrom-guillaume betty hello
+chown --rrom=guillaume betty hello
